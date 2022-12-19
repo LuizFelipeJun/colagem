@@ -1,0 +1,24 @@
+#rodape {
+   position: fixed;
+   background-color: antiquewhite;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   line-height: 3;
+}
+
+#camera {
+   width: 500px;
+   height: 400px;
+   border: 1px solid blue;
+}
+
+img {
+   border-radius: 50%;
+   padding: 10px;
+   box-shadow: 5px 5px navy;
+}
+
+img:hover {
+   box-shadow: 5px 5px burlywood;
+}
